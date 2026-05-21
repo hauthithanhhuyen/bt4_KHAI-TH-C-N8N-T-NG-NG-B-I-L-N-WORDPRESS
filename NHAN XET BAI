@@ -1,0 +1,5 @@
+giúp sinh viên nắm vững quy trình xây dựng hệ thống tự động hóa (Automation) thực tế. Qua việc hoàn thiện luồng n8n khép kín, hệ thống đã giải quyết trọn vẹn các bài toán:
+Tích hợp hệ thống: Kết nối giao tiếp API mượt mà giữa Telegram và WordPress.
+Ứng dụng Trí tuệ nhân tạo: Tự động hóa khâu sản xuất nội dung.
+Xử lý dữ liệu: Ứng dụng JavaScript để bóc tách, chuẩn hóa dữ liệu (JSON) và xử lý ngoại lệ (Try-Catch).
+Kỹ năng Problem-solving: Rèn luyện tư duy gỡ lỗi (debug) thông qua việc xử lý các sự cố về xác thực (Authorization) và định dạng dữ liệu trong thực tế.
