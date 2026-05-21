@@ -21,3 +21,25 @@ KHAI THÁC N8N ĐỂ TỰ ĐỘNG ĐĂNG BÀI LÊN WORDPRESS
 <img width="1895" height="1007" alt="image" src="https://github.com/user-attachments/assets/41fd85b7-f0c2-4686-b806-a3eca5c46bdd" />
 # Tạo Bài viết
 <img width="1742" height="962" alt="image" src="https://github.com/user-attachments/assets/07132366-f380-489f-9990-142892b188bb" />
+# BÀI VIẾT THỨ 2
+<img width="1692" height="972" alt="image" src="https://github.com/user-attachments/assets/d9fb4b36-338a-4043-b279-194b41dc8134" />
+# Cài đặt tài khoản và cấu hình giao diện n8n
+<img width="1221" height="742" alt="image" src="https://github.com/user-attachments/assets/c71baeb6-0e83-412b-b0fa-b7e47b589ee4" />
+B1.Vào màn hình tạo luồng
+<img width="1202" height="761" alt="image" src="https://github.com/user-attachments/assets/cde12072-530f-4eae-b8f6-1834e50a1313" />
+Bước 2: Thêm nút Telegram Trigger
+
+b3.thiết lập thông tin
+<img width="1653" height="841" alt="image" src="https://github.com/user-attachments/assets/d08eae2f-19bd-44e3-a6f4-0216d566ee66" />
+b4.Dán token
+<img width="1481" height="791" alt="image" src="https://github.com/user-attachments/assets/5a4737f2-e9da-4146-afc2-280d6909bf36" />
+<img width="1657" height="778" alt="image" src="https://github.com/user-attachments/assets/01346dd7-a8a8-4b0f-8a8a-27089e0a16ed" />
+# Thêm Node Google Gemini
+<img width="1631" height="960" alt="image" src="https://github.com/user-attachments/assets/123c320e-e46e-447d-bbd1-738a75c730e4" />
+B1.Xác thực thông tin
+<img width="1727" height="773" alt="image" src="https://github.com/user-attachments/assets/5dd7bbcc-2947-4aef-8b48-b5338380d001" />
+ B2,lấy mã token dán 
+<img width="1673" height="866" alt="image" src="https://github.com/user-attachments/assets/9c3668bb-cb97-4a4b-8e46-ebfcd00744fe" />
+B3.
+<img width="1781" height="868" alt="image" src="https://github.com/user-attachments/assets/2291bf11-7507-4d9d-b671-6ba27476cffd" />
+
